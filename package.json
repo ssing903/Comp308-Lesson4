@@ -33,5 +33,13 @@
     "@types/mongoose": "^5.5.32",
     "@types/morgan": "^1.7.37",
     "@types/node": "^12.11.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssing903/Comp308-Lesson4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ssing903/Comp308-Lesson4/issues"
+  },
+  "homepage": "https://github.com/ssing903/Comp308-Lesson4#readme"
 }
