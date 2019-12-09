@@ -8,7 +8,8 @@ let contactSchema = mongoose.Schema({
 },
 {
     collection:"First"
-});
+}
+);
 
 
 module.exports = mongoose.model('Test',contactSchema)
